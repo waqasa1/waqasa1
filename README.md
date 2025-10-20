@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on **React projects**
 - 🌱 I’m learning **RTK Query, Backend APIs, and Three.js**
 - 👯 I’m looking to collaborate on **Frontend & Creative UI projects**
-- 💬 Ask me about **React, GSAP, MUI, and UI design**
 - ⚡ Fun fact: I love creating smooth, animated user experiences
 
 ---
