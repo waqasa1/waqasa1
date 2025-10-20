@@ -1,27 +1,25 @@
-# 👋 Hi, I’m Waqas Anwar
+<h1 align="center">Hi 👋, I'm Waqas Anwar</h1>
+<h3 align="center">Frontend Developer | React.js Enthusiast</h3>
+---
 
-💡 **Frontend Developer** with a passion for crafting interactive and modern UIs using **React** and **MUI**.  
-🎯 Focused on building smooth animations and user-friendly experiences.
+### 🧠 About Me
+- 🔭 I’m currently working on **React projects**
+- 🌱 I’m learning **RTK Query, Backend APIs, and Three.js**
+- 👯 I’m looking to collaborate on **Frontend & Creative UI projects**
+- 💬 Ask me about **React, GSAP, MUI, and UI design**
+- ⚡ Fun fact: I love creating smooth, animated user experiences
 
 ---
 
-### 🧠 Currently Learning
-- Redux Toolkit & RTK Query
-- Backend Communication (API best practices)
-- Three.js & Web Animations
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,materialui,nodejs,express,mongodb,git,vite,vercel" />
+</p>
 
 ---
 
-### 🛠️ My Tools
-`React` `MUI` `GSAP` `Node.js` `Express` `MongoDB` `Git` `Vite`
-
----
-
-### 📊 GitHub Stats
-![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=waqas-anwar&show_icons=true&theme=github_dark)
-
----
-
-### 🌎 Find Me Online
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-anwar-41873020a)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waqasanwar1308@gmail.com)
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/waqas-anwar-41873020a" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:waqasanwar1308@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
