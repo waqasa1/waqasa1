@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I’m Waqas Anwar
 
-<!--
-**waqasa1/waqasa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Frontend Developer** with a passion for crafting interactive and modern UIs using **React** and **MUI**.  
+🎯 Focused on building smooth animations and user-friendly experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently Learning
+- Redux Toolkit & RTK Query
+- Backend Communication (API best practices)
+- Three.js & Web Animations
+
+---
+
+### 🛠️ My Tools
+`React` `MUI` `GSAP` `Node.js` `Express` `MongoDB` `Git` `Vite`
+
+---
+
+### 📊 GitHub Stats
+![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=waqas-anwar&show_icons=true&theme=github_dark)
+
+---
+
+### 🌎 Find Me Online
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-anwar-41873020a)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waqasanwar1308@gmail.com)
