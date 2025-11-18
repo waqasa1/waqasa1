@@ -3,9 +3,9 @@
 ---
 
 ### 🧠 About Me
-- 🔭 I’m currently working on **React projects**
-- 🌱 I’m learning **RTK Query, Backend APIs, and Three.js**
-- 👯 I’m looking to collaborate on **Frontend & Creative UI projects**
+- 🔭 I’m currently working on **React best practices**
+- 🌱 I’m learning **Security, Backend APIs, and Deployment**
+- 👯 I’m looking to collaborate on **Expressjs & Creative UI projects**
 - ⚡ Fun fact: I love creating smooth, animated user experiences
 
 ---
