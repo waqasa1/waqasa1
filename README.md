@@ -4,7 +4,7 @@
 
 ### 🧠 About Me
 - 🔭 I’m currently working on **React best practices**
-- 🌱 I’m learning **Security, Backend APIs, and Deployment**
+- 🌱 I’m learning **Security and Deployment**
 - 👯 I’m looking to collaborate on **Expressjs & Creative UI projects**
 - ⚡ Fun fact: I love creating smooth, animated user experiences
 
