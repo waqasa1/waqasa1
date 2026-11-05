@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waqas Anwar</h1>
-<h3 align="center">Fullstack Developer | Mern Enthusiast</h3>
+<h3 align="center">Fullstack Developer | Javascript Enthusiast</h3>
 ---
 
 ### 🧠 About Me
